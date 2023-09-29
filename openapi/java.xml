@@ -76,9 +76,9 @@
               <generateModelTests>false</generateModelTests>
               <configOptions>
               <artifactDescription>Kubernetes Java Client API</artifactDescription>
-                <scmUrl>https://github.com/kubernetes-client/java</scmUrl>
-                <scmConnection>scm:git:git@github.com:kubernetes-client/java.git</scmConnection>
-                <scmDeveloperConnection>scm:git:git@github.com:kubernetes-client/java.git</scmDeveloperConnection>
+                <scmUrl>https://github.com/jrshaffe/java</scmUrl>
+                <scmConnection>scm:git:git@github.com:jrshaffe/java.git</scmConnection>
+                <scmDeveloperConnection>scm:git:git@github.com:jrshaffe/java.git</scmDeveloperConnection>
                 <parentGroupId>io.kubernetes</parentGroupId>
                 <parentArtifactId>client-java-parent</parentArtifactId>
                 <parentVersion>${generator.client.version}</parentVersion>
